@@ -1,0 +1,106 @@
+[17:26:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:26:10] [ServerMain/INFO]: No existing world data, creating new world
+[17:26:10] [ServerMain/INFO]: Loaded 1290 recipes
+[17:26:10] [ServerMain/INFO]: Loaded 1399 advancements
+[17:26:11] [Server thread/INFO]: Starting minecraft server version 1.21
+[17:26:11] [Server thread/INFO]: Loading properties
+[17:26:11] [Server thread/INFO]: Default game type: SURVIVAL
+[17:26:11] [Server thread/INFO]: Generating keypair
+[17:26:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:26:11] [Server thread/INFO]: Using epoll channel type
+[17:26:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:26:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:26:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:26:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:26:11] [Server thread/INFO]: Preparing level "world"
+[17:26:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:26:13] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[17:26:14] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[17:26:14] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[17:26:15] [Worker-Main-14/INFO]: Preparing spawn area: 51%
+[17:26:15] [Server thread/INFO]: Time elapsed: 1711 ms
+[17:26:15] [Server thread/INFO]: Done (3.775s)! For help, type "help"
+[17:27:01] [Server thread/INFO]: O_o_Fadi_o_O[/192.168.68.124:42564] logged in with entity id 16 at (294.5, 66.0, 168.5)
+[17:27:01] [Server thread/INFO]: O_o_Fadi_o_O joined the game
+[17:27:07] [Server thread/INFO]: FuzzyFind[/192.168.68.126:52158] logged in with entity id 230 at (314.5, 64.0, 156.5)
+[17:27:07] [Server thread/INFO]: FuzzyFind joined the game
+[17:28:08] [Server thread/INFO]: firebunny777[/192.168.68.125:60428] logged in with entity id 577 at (301.5, 63.0, 150.5)
+[17:28:08] [Server thread/INFO]: firebunny777 joined the game
+[17:29:01] [Server thread/INFO]: O_o_Fadi_o_O lost connection: Timed out
+[17:29:01] [Server thread/INFO]: O_o_Fadi_o_O left the game
+[17:29:01] [Server thread/WARN]: handleDisconnection() called twice
+[17:31:13] [Server thread/INFO]: firebunny777 has made the advancement [Stone Age]
+[17:31:38] [Server thread/INFO]: O_o_Fadi_o_O[/192.168.68.124:53542] logged in with entity id 1239 at (315.34670788972454, 64.49520087700593, 160.3261470696941)
+[17:31:38] [Server thread/INFO]: O_o_Fadi_o_O joined the game
+[17:31:48] [Server thread/INFO]: firebunny777 has made the advancement [Getting an Upgrade]
+[17:32:20] [Server thread/INFO]: O_o_Fadi_o_O lost connection: Timed out
+[17:32:20] [Server thread/INFO]: O_o_Fadi_o_O left the game
+[17:38:14] [Server thread/INFO]: O_o_Fadi_o_O[/192.168.68.109:49974] logged in with entity id 2239 at (315.4184795448462, 64.0, 160.24918577931402)
+[17:38:14] [Server thread/INFO]: O_o_Fadi_o_O joined the game
+[17:39:10] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Stone Age]
+[17:39:20] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Getting an Upgrade]
+[17:39:41] [Server thread/INFO]: Set the time to 0
+[17:41:21] [Server thread/INFO]: MojoDojoCassa[/192.168.68.127:59636] logged in with entity id 2792 at (308.5, 63.0, 151.5)
+[17:41:21] [Server thread/INFO]: MojoDojoCassa joined the game
+[17:46:49] [Server thread/INFO]: MojoDojoCassa has made the advancement [Stone Age]
+[17:47:29] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Acquire Hardware]
+[17:47:57] [Server thread/INFO]: FuzzyFind has made the advancement [Stone Age]
+[17:49:07] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Isn't It Iron Pick]
+[17:49:18] [Server thread/INFO]: FuzzyFind has made the advancement [Getting an Upgrade]
+[17:51:14] [Server thread/INFO]: MojoDojoCassa has made the advancement [Acquire Hardware]
+[17:51:30] [Server thread/INFO]: firebunny777 was slain by Zombie
+[17:51:48] [Server thread/WARN]: firebunny777 moved too quickly! -38.561877596370664,5.006014010494454,-1.3085204791839544
+[17:52:53] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Monster Hunter]
+[17:55:49] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Suit Up]
+[17:56:14] [Server thread/INFO]: MojoDojoCassa has made the advancement [A Seedy Place]
+[17:57:01] [Server thread/INFO]: FuzzyFind has made the advancement [Isn't It Iron Pick]
+[17:58:52] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Diamonds!]
+[18:00:35] [Server thread/INFO]: FuzzyFind lost connection: Disconnected
+[18:00:35] [Server thread/INFO]: FuzzyFind left the game
+[18:00:38] [Server thread/INFO]: FuzzyFind[/192.168.68.126:41762] logged in with entity id 6860 at (319.9063400483664, -17.0, 242.915499677188)
+[18:00:38] [Server thread/INFO]: FuzzyFind joined the game
+[18:01:36] [Server thread/INFO]: FuzzyFind was slain by Zombie
+[18:01:42] [Server thread/WARN]: FuzzyFind moved too quickly! -5.626340724868157,111.0,-74.1947309762277
+[18:01:42] [Server thread/WARN]: FuzzyFind moved too quickly! -5.626340724868157,111.0,-74.1947309762277
+[18:01:42] [Server thread/WARN]: FuzzyFind moved too quickly! -5.626340724868157,111.0,-74.1947309762277
+[18:02:22] [Server thread/INFO]: FuzzyFind has made the advancement [Monster Hunter]
+[18:10:53] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Ice Bucket Challenge]
+[18:14:40] [Server thread/INFO]: MojoDojoCassa has made the advancement [Monster Hunter]
+[18:24:57] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [We Need to Go Deeper]
+[18:25:01] [Server thread/WARN]: MojoDojoCassa moved too quickly! 8.114959926723031,-0.1810911428862596,5.9569122429705885
+[18:25:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5106ms or 102 ticks behind
+[18:25:33] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [A Terrible Fortress]
+[18:30:58] [Server thread/INFO]: [Not Secure] <O_o_Fadi_o_O> 300, 67 175
+[18:33:14] [Server thread/INFO]: firebunny777 has made the advancement [We Need to Go Deeper]
+[18:37:39] [Server thread/INFO]: MojoDojoCassa was blown up by Creeper
+[18:37:45] [Server thread/WARN]: MojoDojoCassa moved too quickly! -481.5296502126861,-9.0,-425.72375591938464
+[18:40:27] [Server thread/INFO]: firebunny777 has made the advancement [Acquire Hardware]
+[18:41:31] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [Not Today, Thank You]
+[18:41:45] [Server thread/INFO]: firebunny777 has made the advancement [Suit Up]
+[18:42:41] [Server thread/INFO]: MojoDojoCassa fell from a high place
+[18:42:43] [Server thread/WARN]: MojoDojoCassa moved too quickly! 2.23168445638521,-3.0,11.199999988079071
+[18:43:11] [Server thread/INFO]: O_o_Fadi_o_O was burned to a crisp while fighting Blaze
+[18:43:32] [Server thread/INFO]: firebunny777 was slain by Zombie
+[18:43:48] [Server thread/WARN]: firebunny777 moved too quickly! 16.82038855367955,6.0,-53.91958782319796
+[18:44:06] [Server thread/INFO]: O_o_Fadi_o_O was slain by Wither Skeleton
+[18:45:10] [Server thread/INFO]: O_o_Fadi_o_O was slain by Wither Skeleton
+[18:45:28] [Server thread/INFO]: MojoDojoCassa has made the advancement [Suit Up]
+[18:46:10] [Server thread/INFO]: O_o_Fadi_o_O was slain by Wither Skeleton
+[18:46:49] [Server thread/INFO]: FuzzyFind has made the advancement [Acquire Hardware]
+[18:49:42] [Server thread/INFO]: MojoDojoCassa has made the advancement [Getting an Upgrade]
+[18:52:19] [Server thread/INFO]: firebunny777 has made the advancement [Monster Hunter]
+[18:53:16] [Server thread/INFO]: O_o_Fadi_o_O has made the advancement [A Seedy Place]
+[18:54:57] [Server thread/INFO]: firebunny777 was impaled by Drowned
+[18:57:33] [Server thread/INFO]: [Not Secure] <O_o_Fadi_o_O> DIamonds @ 342, -46, 242
+[18:59:13] [Server thread/INFO]: O_o_Fadi_o_O lost connection: Disconnected
+[18:59:13] [Server thread/INFO]: O_o_Fadi_o_O left the game
+[19:09:11] [Server thread/INFO]: firebunny777 has made the advancement [A Seedy Place]
+[19:13:54] [Server thread/INFO]: firebunny777 has made the advancement [Diamonds!]
+[19:13:54] [Server thread/INFO]: firebunny777 has made the advancement [Ice Bucket Challenge]
+[19:15:08] [Server thread/INFO]: firebunny777 has made the advancement [Sweet Dreams]
+[19:31:03] [Server thread/INFO]: firebunny777 lost connection: Disconnected
+[19:31:03] [Server thread/INFO]: firebunny777 left the game
+[19:31:05] [Server thread/INFO]: FuzzyFind lost connection: Disconnected
+[19:31:05] [Server thread/INFO]: FuzzyFind left the game
+[19:31:12] [Server thread/INFO]: MojoDojoCassa lost connection: Disconnected
+[19:31:12] [Server thread/INFO]: MojoDojoCassa left the game
